@@ -1,0 +1,16 @@
+C:\Users\1216541\OneDrive - sga.pucminas.br\Documentos\2º Semestre\AED\10-11 Lista Linear\listaLinear\listaLinear\bin\Debug\net5.0\listaLinear.exe
+C:\Users\1216541\OneDrive - sga.pucminas.br\Documentos\2º Semestre\AED\10-11 Lista Linear\listaLinear\listaLinear\bin\Debug\net5.0\listaLinear.deps.json
+C:\Users\1216541\OneDrive - sga.pucminas.br\Documentos\2º Semestre\AED\10-11 Lista Linear\listaLinear\listaLinear\bin\Debug\net5.0\listaLinear.runtimeconfig.json
+C:\Users\1216541\OneDrive - sga.pucminas.br\Documentos\2º Semestre\AED\10-11 Lista Linear\listaLinear\listaLinear\bin\Debug\net5.0\listaLinear.runtimeconfig.dev.json
+C:\Users\1216541\OneDrive - sga.pucminas.br\Documentos\2º Semestre\AED\10-11 Lista Linear\listaLinear\listaLinear\bin\Debug\net5.0\listaLinear.dll
+C:\Users\1216541\OneDrive - sga.pucminas.br\Documentos\2º Semestre\AED\10-11 Lista Linear\listaLinear\listaLinear\bin\Debug\net5.0\listaLinear.pdb
+C:\Users\1216541\OneDrive - sga.pucminas.br\Documentos\2º Semestre\AED\10-11 Lista Linear\listaLinear\listaLinear\obj\Debug\net5.0\listaLinear.csproj.AssemblyReference.cache
+C:\Users\1216541\OneDrive - sga.pucminas.br\Documentos\2º Semestre\AED\10-11 Lista Linear\listaLinear\listaLinear\obj\Debug\net5.0\listaLinear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216541\OneDrive - sga.pucminas.br\Documentos\2º Semestre\AED\10-11 Lista Linear\listaLinear\listaLinear\obj\Debug\net5.0\listaLinear.AssemblyInfoInputs.cache
+C:\Users\1216541\OneDrive - sga.pucminas.br\Documentos\2º Semestre\AED\10-11 Lista Linear\listaLinear\listaLinear\obj\Debug\net5.0\listaLinear.AssemblyInfo.cs
+C:\Users\1216541\OneDrive - sga.pucminas.br\Documentos\2º Semestre\AED\10-11 Lista Linear\listaLinear\listaLinear\obj\Debug\net5.0\listaLinear.csproj.CoreCompileInputs.cache
+C:\Users\1216541\OneDrive - sga.pucminas.br\Documentos\2º Semestre\AED\10-11 Lista Linear\listaLinear\listaLinear\obj\Debug\net5.0\listaLinear.dll
+C:\Users\1216541\OneDrive - sga.pucminas.br\Documentos\2º Semestre\AED\10-11 Lista Linear\listaLinear\listaLinear\obj\Debug\net5.0\refint\listaLinear.dll
+C:\Users\1216541\OneDrive - sga.pucminas.br\Documentos\2º Semestre\AED\10-11 Lista Linear\listaLinear\listaLinear\obj\Debug\net5.0\listaLinear.pdb
+C:\Users\1216541\OneDrive - sga.pucminas.br\Documentos\2º Semestre\AED\10-11 Lista Linear\listaLinear\listaLinear\obj\Debug\net5.0\listaLinear.genruntimeconfig.cache
+C:\Users\1216541\OneDrive - sga.pucminas.br\Documentos\2º Semestre\AED\10-11 Lista Linear\listaLinear\listaLinear\obj\Debug\net5.0\ref\listaLinear.dll

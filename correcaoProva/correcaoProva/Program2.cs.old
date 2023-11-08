@@ -1,0 +1,101 @@
+﻿using System;
+using System.Collections;
+
+namespace correcaoProva
+{
+    public class Carro
+    {
+        // QUESTÃO 1
+        private string marca;
+        private string modelo;
+        private int ano;
+
+        public Carro(string modelo, string marca, int ano)
+        {
+            this.modelo = modelo;
+            this.marca = marca;
+            this.ano = ano;
+        }
+
+        public Carro()
+        {
+            this.modelo = "Modelo Qualquer";
+            this.marca = "Marca Qualquer";
+            this.ano = 1999;
+        }
+
+        public override bool Equals(object obj)
+        {
+            if (obj == null || GetType() != obj.GetType())
+                return false;
+
+            Carro c = obj as Carro;
+            return c.modelo == this.modelo && c.marca == this.marca && c.ano == this.ano;
+        }
+
+        public override string ToString()
+        {
+            return $"modelo: {this.modelo}, marca: {this.marca}, ano: {this.ano}";
+        }
+
+        //QUESTÃO 2
+        public ArrayList ContarMarcas(ArrayList arr)
+        {
+            ArrayList marcas = new ArrayList();
+
+            foreach (Carro carro in arr)
+                if (!marcas.Contains(carro.marca))
+                    marcas.Add(carro.marca);
+
+            return marcas;
+        }
+
+        public int ContarCarros(ArrayList arr, string marca)
+        {
+            int count = 0;
+            foreach (Carro carro in arr)
+                if (carro.marca == marca)
+                    count++;
+
+            return count;
+        }
+
+        public static void Teste1()
+        {
+            Carro carroa = new Carro("Uno", "Fiat", 1999);
+            Carro carrob = new Carro("Uno", "Fiat", 1999);
+
+            if (carroa.Equals(carrob))
+                Console.WriteLine("Os carros são iguais");
+            else
+                Console.WriteLine("Os carros não são iguais");
+        }
+
+        public static void Teste2()
+        {
+            ArrayList arr = new ArrayList();
+
+            Carro carroGenerico = new Carro();
+
+            arr.Add(new Carro("Palio", "Fiat", 2002));
+            arr.Add(new Carro("Palio", "Fiat", 2003));
+            arr.Add(new Carro("Punto", "Fiat", 2011));
+            arr.Add(new Carro("Punto", "Fiat", 2012));
+            arr.Add(new Carro("Civic", "Honda", 2019));
+            arr.Add(new Carro("Eclipse", "Mitsubishi", 2008));
+
+            ArrayList marcas = carroGenerico.ContarMarcas(arr);
+
+            foreach (string marca in marcas)
+                Console.WriteLine($"{marca}: {carroGenerico.ContarCarros(arr, marca)} carro(s).");
+        }
+
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Carro.Teste2();
+        }
+    }
+}

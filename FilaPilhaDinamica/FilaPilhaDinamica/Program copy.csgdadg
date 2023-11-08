@@ -1,0 +1,230 @@
+﻿using System;
+
+namespace FilaPilhaDinamica
+{
+	class Celula
+	{
+		public int valor;
+		public Celula prox;
+		public Celula() : this(0) { }
+		public Celula(int valor)
+		{
+			this.valor = valor;
+		}
+	}
+
+	class Pilha
+	{
+		private Celula topo;
+
+		public Pilha()
+		{
+			topo = null;
+		}
+
+		public void Inserir(int x)
+		{
+			Celula tmp = new Celula(x);
+			tmp.prox = topo;
+			topo = tmp;
+			tmp = null;
+		}
+
+		public int Remover()
+		{
+			if (topo == null)
+				throw new Exception("Erro!");
+
+			int elemento = topo.valor;
+			Celula tmp = topo;
+			topo = topo.prox;
+			tmp.prox = null;
+			tmp = null;
+
+			return elemento;
+		}
+
+		public void Mostrar()
+		{
+			Console.Write("[");
+			for (Celula i = topo; i != null; i = i.prox)
+				Console.Write(i.valor + (i.prox != null ? ", " : ""));
+			Console.WriteLine("]");
+		}
+
+		public Pilha Inverter(Pilha pIn)
+		{
+			Pilha pOut = new Pilha();
+			while (topo != null)
+				pOut.Inserir(pIn.Remover());
+			return pOut;
+		}
+
+		public bool Palindromo(string s)
+		{
+			Pilha p = new Pilha();
+
+			s = s.ToLower();
+
+			foreach (char c in s)
+				p.Inserir(c);
+
+			string i = "";
+			while (p.topo != null)
+				i += (char)p.Remover();
+
+			return s.Equals(i);
+		}
+
+		public static Pilha Duplicar(Pilha p)
+		{
+			Pilha pOut = new Pilha();
+			p = p.Inverter(p);
+
+			for (Celula i = p.topo; i != null; i = i.prox)
+			{
+				pOut.Inserir(i.valor);
+				pOut.Inserir(i.valor);
+			}
+
+			return pOut;
+		}
+
+		public void RemoverDuplicados()
+		{
+			while (topo != null && topo.prox != null)
+			{
+				Console.WriteLine(topo.valor);
+				if (topo.valor == topo.prox.valor)
+				{
+
+					Console.WriteLine("É igual");
+					topo = topo.prox.prox;
+				}
+				else
+				{
+					topo = topo.prox;
+					Console.WriteLine("Não é igual");
+				}
+				// {
+				// 	topo = topo.prox.prox;
+				// }
+				// else
+				// {
+				// 	topo = topo.prox;
+				// }
+			}
+			// if (topo.valor == topo.prox.valor)
+			// 	topo.prox = topo.prox.prox;
+			// else
+			// 	topo = topo.prox;
+		}
+
+		public bool ValidarExpressoes(Pilha p)
+		{
+			int abreC = 0, fechaC = 0, abreCh = 0, fechaCh = 0, abreP = 0, fechaP = 0;
+
+			Celula c = p.topo;
+			while (c != null)
+			{
+				switch (c.valor)
+				{
+					case '{':
+						abreCh++;
+						break;
+					case '}':
+						fechaCh++;
+						break;
+					case '[':
+						abreC++;
+						break;
+					case ']':
+						fechaC++;
+						break;
+					case '(':
+						abreP++;
+						break;
+					case ')':
+						fechaP++;
+						break;
+				}
+
+				c = c.prox;
+			}
+
+			return (abreC == fechaC) && (abreCh == fechaCh) && (abreP == fechaP);
+		}
+
+		public static void teste()
+		{
+			Pilha p = new Pilha();
+
+			p.Inserir(1);
+			p.Inserir(2);
+			p.Inserir(3);
+			p.Inserir(4);
+			p.Inserir(5);
+
+			p.Mostrar();
+
+			Console.Write("\n");
+
+			p = p.Inverter(p);
+			p.Mostrar();
+
+			Console.Write("\nExercício 2\n");
+			if (p.Palindromo("Amor a Roma"))
+				Console.WriteLine("É palíndromo");
+			else
+				Console.WriteLine("Não é palíndromo");
+
+			if (p.Palindromo("Amor a Atenas"))
+				Console.WriteLine("É palíndromo");
+			else
+				Console.WriteLine("Não é palíndromo");
+
+			Pilha exp1 = new Pilha();
+			foreach (char c in "(1 + 1) - {3 - [(5 - 3) * 2]}")
+				exp1.Inserir(c);
+
+			Console.Write("\nExercício 3\n");
+			if (p.ValidarExpressoes(exp1))
+				Console.WriteLine("Expressão válida");
+			else
+				Console.WriteLine("Expressão Inválida");
+
+
+			Pilha exp2 = new Pilha();
+			foreach (char c in "(1 + 1]] - {3 - {[5 - 3) * 2]})")
+				exp2.Inserir(c);
+
+			if (p.ValidarExpressoes(exp2))
+				Console.WriteLine("Expressão válida");
+			else
+				Console.WriteLine("Expressão Inválida");
+
+			Console.Write("\nExercício 4\n");
+			Console.WriteLine("Elementos duplicados: ");
+
+			p = Pilha.Duplicar(p);
+			p.Mostrar();
+
+			Console.Write("\nExercício 5\n");
+
+			p.Inserir(6);
+
+			Console.WriteLine("Remove Elementos Consecutivos Iguais: ");
+			p.Mostrar();
+			p.RemoverDuplicados();
+			p.Mostrar();
+		}
+	}
+
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			Pilha.teste();
+		}
+	}
+}

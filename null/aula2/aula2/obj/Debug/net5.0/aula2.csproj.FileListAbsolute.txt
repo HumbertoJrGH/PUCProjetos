@@ -1,0 +1,16 @@
+C:\Users\1216541\OneDrive\AED\null\aula2\aula2\obj\Debug\net5.0\aula2.csproj.AssemblyReference.cache
+C:\Users\1216541\OneDrive\AED\null\aula2\aula2\obj\Debug\net5.0\aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216541\OneDrive\AED\null\aula2\aula2\obj\Debug\net5.0\aula2.AssemblyInfoInputs.cache
+C:\Users\1216541\OneDrive\AED\null\aula2\aula2\obj\Debug\net5.0\aula2.AssemblyInfo.cs
+C:\Users\1216541\OneDrive\AED\null\aula2\aula2\obj\Debug\net5.0\aula2.csproj.CoreCompileInputs.cache
+C:\Users\1216541\OneDrive\AED\null\aula2\aula2\bin\Debug\net5.0\aula2.exe
+C:\Users\1216541\OneDrive\AED\null\aula2\aula2\bin\Debug\net5.0\aula2.deps.json
+C:\Users\1216541\OneDrive\AED\null\aula2\aula2\bin\Debug\net5.0\aula2.runtimeconfig.json
+C:\Users\1216541\OneDrive\AED\null\aula2\aula2\bin\Debug\net5.0\aula2.runtimeconfig.dev.json
+C:\Users\1216541\OneDrive\AED\null\aula2\aula2\bin\Debug\net5.0\aula2.dll
+C:\Users\1216541\OneDrive\AED\null\aula2\aula2\bin\Debug\net5.0\aula2.pdb
+C:\Users\1216541\OneDrive\AED\null\aula2\aula2\obj\Debug\net5.0\aula2.dll
+C:\Users\1216541\OneDrive\AED\null\aula2\aula2\obj\Debug\net5.0\refint\aula2.dll
+C:\Users\1216541\OneDrive\AED\null\aula2\aula2\obj\Debug\net5.0\aula2.pdb
+C:\Users\1216541\OneDrive\AED\null\aula2\aula2\obj\Debug\net5.0\aula2.genruntimeconfig.cache
+C:\Users\1216541\OneDrive\AED\null\aula2\aula2\obj\Debug\net5.0\ref\aula2.dll

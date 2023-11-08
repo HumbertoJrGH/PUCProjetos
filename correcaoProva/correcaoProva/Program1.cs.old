@@ -1,0 +1,62 @@
+﻿using System;
+
+namespace correcaoProva
+{
+    public class Carro
+    {
+        private string marca;
+        private string modelo;
+        private int ano;
+
+        public Carro(string modelo, string marca, int ano)
+        {
+            this.modelo = modelo;
+            this.marca = marca;
+            this.ano = ano;
+        }
+
+        public Carro()
+        {
+            this.modelo = "Modelo Qualquer";
+            this.marca = "Marca Qualquer";
+            this.ano = 1999;
+        }
+
+        public override bool Equals(object obj)
+        {
+            if (obj == null || GetType() != obj.GetType())
+                return false;
+
+            Carro c = obj as Carro;
+            return c.modelo == this.modelo && c.marca == this.marca && c.ano == this.ano;
+        }
+
+        public override string ToString()
+        {
+            return $"modelo: {this.modelo}, marca: {this.marca}, ano: {this.ano}";
+        }
+
+        public static void teste()
+        {
+            Console.WriteLine("Teste com dois carros iguais");
+            Carro carroa = new Carro("Uno", "Fiat", 1999);
+            Carro carrob = new Carro("Uno", "Fiat", 1999);
+            
+            Console.WriteLine(carroa);
+            Console.WriteLine(carrob);
+
+            if (carroa.Equals(carrob))
+                Console.WriteLine("Os carros são iguais");
+            else
+                Console.WriteLine("Os carros não são iguais");
+        }
+
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Carro.teste();
+        }
+    }
+}

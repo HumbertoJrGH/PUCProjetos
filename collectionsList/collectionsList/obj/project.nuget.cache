@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bs5LK8VJgWIUWrOYO1P1KvHXD5wZBlwXWoPLbB/87g9Kbm3x+D/hwjAELUUAbtQ27J7OGUHZZ4VaLGKfNdI9jw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\1216541\\OneDrive - sga.pucminas.br\\Documentos\\2º Semestre\\AED\\collectionsList\\collectionsList\\collectionsList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1216541\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
