@@ -68,6 +68,21 @@ namespace FilaPilhaDinamica
 			}
 			return soma / cont;
 		}
+
+		// public double MediaElementosRecursivo(Celula item = null)
+		// {
+		// 	int soma = 0;
+		// 	if (item == null)
+		// 		item = primeiro.prox;
+
+		// 	if (item == null)
+		// 		return 0;
+		// 	else
+		// 		soma += MediaElementosRecursivo(item.prox);
+
+		// 		return soma /
+		// }
+		
 		public int RemoverElemeto(int elemento)
 		{
 			if (primeiro == ultimo)

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\humbe\\OneDrive - sga.pucminas.br\\Documentos\\PUC\\2º Semestre\\AED\\exercicioClasses\\exercicioClasses\\exercicioClasses.csproj": {}
+    "C:\\Users\\humbe\\OneDrive - sga.pucminas.br\\Documentos\\PUC\\2º Semestre\\AED\\23-11-07 exercicioClasses\\exercicioClasses\\exercicioClasses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\humbe\\OneDrive - sga.pucminas.br\\Documentos\\PUC\\2º Semestre\\AED\\exercicioClasses\\exercicioClasses\\exercicioClasses.csproj": {
+    "C:\\Users\\humbe\\OneDrive - sga.pucminas.br\\Documentos\\PUC\\2º Semestre\\AED\\23-11-07 exercicioClasses\\exercicioClasses\\exercicioClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\humbe\\OneDrive - sga.pucminas.br\\Documentos\\PUC\\2º Semestre\\AED\\exercicioClasses\\exercicioClasses\\exercicioClasses.csproj",
+        "projectUniqueName": "C:\\Users\\humbe\\OneDrive - sga.pucminas.br\\Documentos\\PUC\\2º Semestre\\AED\\23-11-07 exercicioClasses\\exercicioClasses\\exercicioClasses.csproj",
         "projectName": "exercicioClasses",
-        "projectPath": "C:\\Users\\humbe\\OneDrive - sga.pucminas.br\\Documentos\\PUC\\2º Semestre\\AED\\exercicioClasses\\exercicioClasses\\exercicioClasses.csproj",
+        "projectPath": "C:\\Users\\humbe\\OneDrive - sga.pucminas.br\\Documentos\\PUC\\2º Semestre\\AED\\23-11-07 exercicioClasses\\exercicioClasses\\exercicioClasses.csproj",
         "packagesPath": "C:\\Users\\humbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\humbe\\OneDrive - sga.pucminas.br\\Documentos\\PUC\\2º Semestre\\AED\\exercicioClasses\\exercicioClasses\\obj\\",
+        "outputPath": "C:\\Users\\humbe\\OneDrive - sga.pucminas.br\\Documentos\\PUC\\2º Semestre\\AED\\23-11-07 exercicioClasses\\exercicioClasses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -55,18 +55,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.17, 5.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

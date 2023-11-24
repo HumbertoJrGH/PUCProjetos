@@ -1,0 +1,30 @@
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\exercicioClasses\exercicioClasses\bin\Debug\net5.0\exercicioClasses.exe
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\exercicioClasses\exercicioClasses\bin\Debug\net5.0\exercicioClasses.deps.json
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\exercicioClasses\exercicioClasses\bin\Debug\net5.0\exercicioClasses.runtimeconfig.json
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\exercicioClasses\exercicioClasses\bin\Debug\net5.0\exercicioClasses.runtimeconfig.dev.json
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\exercicioClasses\exercicioClasses\bin\Debug\net5.0\exercicioClasses.dll
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\exercicioClasses\exercicioClasses\bin\Debug\net5.0\exercicioClasses.pdb
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\exercicioClasses\exercicioClasses\obj\Debug\net5.0\exercicioClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\exercicioClasses\exercicioClasses\obj\Debug\net5.0\exercicioClasses.AssemblyInfoInputs.cache
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\exercicioClasses\exercicioClasses\obj\Debug\net5.0\exercicioClasses.AssemblyInfo.cs
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\exercicioClasses\exercicioClasses\obj\Debug\net5.0\exercicioClasses.csproj.CoreCompileInputs.cache
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\exercicioClasses\exercicioClasses\obj\Debug\net5.0\exercicioClasses.dll
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\exercicioClasses\exercicioClasses\obj\Debug\net5.0\refint\exercicioClasses.dll
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\exercicioClasses\exercicioClasses\obj\Debug\net5.0\exercicioClasses.pdb
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\exercicioClasses\exercicioClasses\obj\Debug\net5.0\exercicioClasses.genruntimeconfig.cache
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\exercicioClasses\exercicioClasses\obj\Debug\net5.0\ref\exercicioClasses.dll
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\23-11-07 exercicioClasses\exercicioClasses\bin\Debug\net5.0\exercicioClasses.exe
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\23-11-07 exercicioClasses\exercicioClasses\bin\Debug\net5.0\exercicioClasses.deps.json
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\23-11-07 exercicioClasses\exercicioClasses\bin\Debug\net5.0\exercicioClasses.runtimeconfig.json
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\23-11-07 exercicioClasses\exercicioClasses\bin\Debug\net5.0\exercicioClasses.runtimeconfig.dev.json
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\23-11-07 exercicioClasses\exercicioClasses\bin\Debug\net5.0\exercicioClasses.dll
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\23-11-07 exercicioClasses\exercicioClasses\bin\Debug\net5.0\exercicioClasses.pdb
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\23-11-07 exercicioClasses\exercicioClasses\obj\Debug\net5.0\exercicioClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\23-11-07 exercicioClasses\exercicioClasses\obj\Debug\net5.0\exercicioClasses.AssemblyInfoInputs.cache
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\23-11-07 exercicioClasses\exercicioClasses\obj\Debug\net5.0\exercicioClasses.AssemblyInfo.cs
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\23-11-07 exercicioClasses\exercicioClasses\obj\Debug\net5.0\exercicioClasses.csproj.CoreCompileInputs.cache
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\23-11-07 exercicioClasses\exercicioClasses\obj\Debug\net5.0\exercicioClasses.dll
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\23-11-07 exercicioClasses\exercicioClasses\obj\Debug\net5.0\refint\exercicioClasses.dll
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\23-11-07 exercicioClasses\exercicioClasses\obj\Debug\net5.0\exercicioClasses.pdb
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\23-11-07 exercicioClasses\exercicioClasses\obj\Debug\net5.0\exercicioClasses.genruntimeconfig.cache
+C:\Users\humbe\OneDrive - sga.pucminas.br\Documentos\PUC\2º Semestre\AED\23-11-07 exercicioClasses\exercicioClasses\obj\Debug\net5.0\ref\exercicioClasses.dll
