@@ -1,0 +1,16 @@
+C:\Users\humbe\source\repos\Simulado\obj\Debug\net5.0\Simulado.csproj.AssemblyReference.cache
+C:\Users\humbe\source\repos\Simulado\obj\Debug\net5.0\Simulado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humbe\source\repos\Simulado\obj\Debug\net5.0\Simulado.AssemblyInfoInputs.cache
+C:\Users\humbe\source\repos\Simulado\obj\Debug\net5.0\Simulado.AssemblyInfo.cs
+C:\Users\humbe\source\repos\Simulado\obj\Debug\net5.0\Simulado.csproj.CoreCompileInputs.cache
+C:\Users\humbe\source\repos\Simulado\bin\Debug\net5.0\Simulado.exe
+C:\Users\humbe\source\repos\Simulado\bin\Debug\net5.0\Simulado.deps.json
+C:\Users\humbe\source\repos\Simulado\bin\Debug\net5.0\Simulado.runtimeconfig.json
+C:\Users\humbe\source\repos\Simulado\bin\Debug\net5.0\Simulado.runtimeconfig.dev.json
+C:\Users\humbe\source\repos\Simulado\bin\Debug\net5.0\Simulado.dll
+C:\Users\humbe\source\repos\Simulado\bin\Debug\net5.0\ref\Simulado.dll
+C:\Users\humbe\source\repos\Simulado\bin\Debug\net5.0\Simulado.pdb
+C:\Users\humbe\source\repos\Simulado\obj\Debug\net5.0\Simulado.dll
+C:\Users\humbe\source\repos\Simulado\obj\Debug\net5.0\ref\Simulado.dll
+C:\Users\humbe\source\repos\Simulado\obj\Debug\net5.0\Simulado.pdb
+C:\Users\humbe\source\repos\Simulado\obj\Debug\net5.0\Simulado.genruntimeconfig.cache

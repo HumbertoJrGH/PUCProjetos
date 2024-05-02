@@ -1,0 +1,16 @@
+C:\Users\humbe\source\repos\FilaPilha\bin\Debug\net5.0\FilaPilha.exe
+C:\Users\humbe\source\repos\FilaPilha\bin\Debug\net5.0\FilaPilha.deps.json
+C:\Users\humbe\source\repos\FilaPilha\bin\Debug\net5.0\FilaPilha.runtimeconfig.json
+C:\Users\humbe\source\repos\FilaPilha\bin\Debug\net5.0\FilaPilha.runtimeconfig.dev.json
+C:\Users\humbe\source\repos\FilaPilha\bin\Debug\net5.0\FilaPilha.dll
+C:\Users\humbe\source\repos\FilaPilha\bin\Debug\net5.0\ref\FilaPilha.dll
+C:\Users\humbe\source\repos\FilaPilha\bin\Debug\net5.0\FilaPilha.pdb
+C:\Users\humbe\source\repos\FilaPilha\obj\Debug\net5.0\FilaPilha.csproj.AssemblyReference.cache
+C:\Users\humbe\source\repos\FilaPilha\obj\Debug\net5.0\FilaPilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humbe\source\repos\FilaPilha\obj\Debug\net5.0\FilaPilha.AssemblyInfoInputs.cache
+C:\Users\humbe\source\repos\FilaPilha\obj\Debug\net5.0\FilaPilha.AssemblyInfo.cs
+C:\Users\humbe\source\repos\FilaPilha\obj\Debug\net5.0\FilaPilha.csproj.CoreCompileInputs.cache
+C:\Users\humbe\source\repos\FilaPilha\obj\Debug\net5.0\FilaPilha.dll
+C:\Users\humbe\source\repos\FilaPilha\obj\Debug\net5.0\ref\FilaPilha.dll
+C:\Users\humbe\source\repos\FilaPilha\obj\Debug\net5.0\FilaPilha.pdb
+C:\Users\humbe\source\repos\FilaPilha\obj\Debug\net5.0\FilaPilha.genruntimeconfig.cache
