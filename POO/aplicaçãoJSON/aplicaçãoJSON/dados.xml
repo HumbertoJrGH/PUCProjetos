@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAluno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Aluno>
+    <Nome>Gustavo Campos do Nascimento</Nome>
+    <Mail>gcampos@gmail.com</Mail>
+    <TelCel>99905.5089</TelCel>
+  </Aluno>
+  <Aluno>
+    <Nome>Luiz Cláudio Pena</Nome>
+    <Mail>lucapena@terra.com.br</Mail>
+    <TelCel>98890.6070</TelCel>
+  </Aluno>
+  <Aluno>
+    <Nome>Regina Maria Dias</Nome>
+    <Mail>reginamdias@yahoo.com</Mail>
+    <TelCel>99933.7876</TelCel>
+  </Aluno>
+l  <Aluno>
+    <Nome>Rodrigo Henrique de Assis</Nome>
+    <Mail>roassis@uol.com.br</Mail>
+    <TelCel>99888.3040</TelCel>
+  </Aluno>
+  <Aluno>
+    <Nome>Edna Soares Cunha</Nome>
+    <Mail>escunha@gmail.com</Mail>
+    <TelCel>99343.4598</TelCel>
+  </Aluno>
+</ArrayOfAluno>

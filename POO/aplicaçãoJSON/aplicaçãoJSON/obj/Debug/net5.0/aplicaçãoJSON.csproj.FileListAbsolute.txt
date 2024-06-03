@@ -1,0 +1,15 @@
+C:\Users\humbe\source\repos\aplicaçãoJSON\aplicaçãoJSON\bin\Debug\net5.0\aplicaçãoJSON.exe
+C:\Users\humbe\source\repos\aplicaçãoJSON\aplicaçãoJSON\bin\Debug\net5.0\aplicaçãoJSON.deps.json
+C:\Users\humbe\source\repos\aplicaçãoJSON\aplicaçãoJSON\bin\Debug\net5.0\aplicaçãoJSON.runtimeconfig.json
+C:\Users\humbe\source\repos\aplicaçãoJSON\aplicaçãoJSON\bin\Debug\net5.0\aplicaçãoJSON.runtimeconfig.dev.json
+C:\Users\humbe\source\repos\aplicaçãoJSON\aplicaçãoJSON\bin\Debug\net5.0\aplicaçãoJSON.dll
+C:\Users\humbe\source\repos\aplicaçãoJSON\aplicaçãoJSON\bin\Debug\net5.0\aplicaçãoJSON.pdb
+C:\Users\humbe\source\repos\aplicaçãoJSON\aplicaçãoJSON\obj\Debug\net5.0\aplicaçãoJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humbe\source\repos\aplicaçãoJSON\aplicaçãoJSON\obj\Debug\net5.0\aplicaçãoJSON.AssemblyInfoInputs.cache
+C:\Users\humbe\source\repos\aplicaçãoJSON\aplicaçãoJSON\obj\Debug\net5.0\aplicaçãoJSON.AssemblyInfo.cs
+C:\Users\humbe\source\repos\aplicaçãoJSON\aplicaçãoJSON\obj\Debug\net5.0\aplicaçãoJSON.csproj.CoreCompileInputs.cache
+C:\Users\humbe\source\repos\aplicaçãoJSON\aplicaçãoJSON\obj\Debug\net5.0\aplicaçãoJSON.dll
+C:\Users\humbe\source\repos\aplicaçãoJSON\aplicaçãoJSON\obj\Debug\net5.0\refint\aplicaçãoJSON.dll
+C:\Users\humbe\source\repos\aplicaçãoJSON\aplicaçãoJSON\obj\Debug\net5.0\aplicaçãoJSON.pdb
+C:\Users\humbe\source\repos\aplicaçãoJSON\aplicaçãoJSON\obj\Debug\net5.0\aplicaçãoJSON.genruntimeconfig.cache
+C:\Users\humbe\source\repos\aplicaçãoJSON\aplicaçãoJSON\obj\Debug\net5.0\ref\aplicaçãoJSON.dll

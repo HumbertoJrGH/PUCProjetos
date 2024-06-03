@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\humbe\\source\\repos\\ListaExerc\u00EDcios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD608B7-E750-4642-9215-11A6B6CECF17}|ListaExerc\u00EDcios\\ListaExerc\u00EDcios.csproj|c:\\users\\humbe\\source\\repos\\listaexerc\u00EDcios\\listaexerc\u00EDcios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD608B7-E750-4642-9215-11A6B6CECF17}|ListaExerc\u00EDcios\\ListaExerc\u00EDcios.csproj|solutionrelative:listaexerc\u00EDcios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD608B7-E750-4642-9215-11A6B6CECF17}|ListaExerc\u00EDcios\\ListaExerc\u00EDcios.csproj|c:\\users\\humbe\\source\\repos\\listaexerc\u00EDcios\\listaexerc\u00EDcios\\opera\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD608B7-E750-4642-9215-11A6B6CECF17}|ListaExerc\u00EDcios\\ListaExerc\u00EDcios.csproj|solutionrelative:listaexerc\u00EDcios\\opera\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD608B7-E750-4642-9215-11A6B6CECF17}|ListaExerc\u00EDcios\\ListaExerc\u00EDcios.csproj|c:\\users\\humbe\\source\\repos\\listaexerc\u00EDcios\\listaexerc\u00EDcios\\minuscula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD608B7-E750-4642-9215-11A6B6CECF17}|ListaExerc\u00EDcios\\ListaExerc\u00EDcios.csproj|solutionrelative:listaexerc\u00EDcios\\minuscula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD608B7-E750-4642-9215-11A6B6CECF17}|ListaExerc\u00EDcios\\ListaExerc\u00EDcios.csproj|c:\\users\\humbe\\source\\repos\\listaexerc\u00EDcios\\listaexerc\u00EDcios\\maiuscula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD608B7-E750-4642-9215-11A6B6CECF17}|ListaExerc\u00EDcios\\ListaExerc\u00EDcios.csproj|solutionrelative:listaexerc\u00EDcios\\maiuscula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD608B7-E750-4642-9215-11A6B6CECF17}|ListaExerc\u00EDcios\\ListaExerc\u00EDcios.csproj|c:\\users\\humbe\\source\\repos\\listaexerc\u00EDcios\\listaexerc\u00EDcios\\executaopera\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD608B7-E750-4642-9215-11A6B6CECF17}|ListaExerc\u00EDcios\\ListaExerc\u00EDcios.csproj|solutionrelative:listaexerc\u00EDcios\\executaopera\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Opera\u00E7\u00E3o.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\ListaExerc\u00EDcios\\ListaExerc\u00EDcios\\Opera\u00E7\u00E3o.cs",
+              "RelativeDocumentMoniker": "ListaExerc\u00EDcios\\Opera\u00E7\u00E3o.cs",
+              "ToolTip": "C:\\Users\\humbe\\source\\repos\\ListaExerc\u00EDcios\\ListaExerc\u00EDcios\\Opera\u00E7\u00E3o.cs",
+              "RelativeToolTip": "ListaExerc\u00EDcios\\Opera\u00E7\u00E3o.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:46:14.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Minuscula.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\ListaExerc\u00EDcios\\ListaExerc\u00EDcios\\Minuscula.cs",
+              "RelativeDocumentMoniker": "ListaExerc\u00EDcios\\Minuscula.cs",
+              "ToolTip": "C:\\Users\\humbe\\source\\repos\\ListaExerc\u00EDcios\\ListaExerc\u00EDcios\\Minuscula.cs",
+              "RelativeToolTip": "ListaExerc\u00EDcios\\Minuscula.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:43:41.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Maiuscula.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\ListaExerc\u00EDcios\\ListaExerc\u00EDcios\\Maiuscula.cs",
+              "RelativeDocumentMoniker": "ListaExerc\u00EDcios\\Maiuscula.cs",
+              "ToolTip": "C:\\Users\\humbe\\source\\repos\\ListaExerc\u00EDcios\\ListaExerc\u00EDcios\\Maiuscula.cs",
+              "RelativeToolTip": "ListaExerc\u00EDcios\\Maiuscula.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:40:51.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExecutaOpera\u00E7\u00E3o.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\ListaExerc\u00EDcios\\ListaExerc\u00EDcios\\ExecutaOpera\u00E7\u00E3o.cs",
+              "RelativeDocumentMoniker": "ListaExerc\u00EDcios\\ExecutaOpera\u00E7\u00E3o.cs",
+              "ToolTip": "C:\\Users\\humbe\\source\\repos\\ListaExerc\u00EDcios\\ListaExerc\u00EDcios\\ExecutaOpera\u00E7\u00E3o.cs",
+              "RelativeToolTip": "ListaExerc\u00EDcios\\ExecutaOpera\u00E7\u00E3o.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:39:27.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\ListaExerc\u00EDcios\\ListaExerc\u00EDcios\\Program.cs",
+              "RelativeDocumentMoniker": "ListaExerc\u00EDcios\\Program.cs",
+              "ToolTip": "C:\\Users\\humbe\\source\\repos\\ListaExerc\u00EDcios\\ListaExerc\u00EDcios\\Program.cs",
+              "RelativeToolTip": "ListaExerc\u00EDcios\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:38:50.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

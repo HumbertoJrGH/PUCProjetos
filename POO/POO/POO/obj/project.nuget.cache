@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9595EG7ndS6lHxrPJHCKu9x0mA8MkQSKLp63G/5irAq9mj11+cqWYOMiYD7Zj4dfMybdqh1ujz0W5udShwCbqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\humbe\\source\\repos\\POO\\POO\\POO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\humbe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

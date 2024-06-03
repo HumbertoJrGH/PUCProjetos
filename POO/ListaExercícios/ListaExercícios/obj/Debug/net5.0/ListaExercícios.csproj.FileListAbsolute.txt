@@ -1,0 +1,15 @@
+C:\Users\humbe\source\repos\ListaExercícios\ListaExercícios\bin\Debug\net5.0\ListaExercícios.exe
+C:\Users\humbe\source\repos\ListaExercícios\ListaExercícios\bin\Debug\net5.0\ListaExercícios.deps.json
+C:\Users\humbe\source\repos\ListaExercícios\ListaExercícios\bin\Debug\net5.0\ListaExercícios.runtimeconfig.json
+C:\Users\humbe\source\repos\ListaExercícios\ListaExercícios\bin\Debug\net5.0\ListaExercícios.runtimeconfig.dev.json
+C:\Users\humbe\source\repos\ListaExercícios\ListaExercícios\bin\Debug\net5.0\ListaExercícios.dll
+C:\Users\humbe\source\repos\ListaExercícios\ListaExercícios\bin\Debug\net5.0\ListaExercícios.pdb
+C:\Users\humbe\source\repos\ListaExercícios\ListaExercícios\obj\Debug\net5.0\ListaExercícios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humbe\source\repos\ListaExercícios\ListaExercícios\obj\Debug\net5.0\ListaExercícios.AssemblyInfoInputs.cache
+C:\Users\humbe\source\repos\ListaExercícios\ListaExercícios\obj\Debug\net5.0\ListaExercícios.AssemblyInfo.cs
+C:\Users\humbe\source\repos\ListaExercícios\ListaExercícios\obj\Debug\net5.0\ListaExercícios.csproj.CoreCompileInputs.cache
+C:\Users\humbe\source\repos\ListaExercícios\ListaExercícios\obj\Debug\net5.0\ListaExercícios.dll
+C:\Users\humbe\source\repos\ListaExercícios\ListaExercícios\obj\Debug\net5.0\refint\ListaExercícios.dll
+C:\Users\humbe\source\repos\ListaExercícios\ListaExercícios\obj\Debug\net5.0\ListaExercícios.pdb
+C:\Users\humbe\source\repos\ListaExercícios\ListaExercícios\obj\Debug\net5.0\ListaExercícios.genruntimeconfig.cache
+C:\Users\humbe\source\repos\ListaExercícios\ListaExercícios\obj\Debug\net5.0\ref\ListaExercícios.dll
