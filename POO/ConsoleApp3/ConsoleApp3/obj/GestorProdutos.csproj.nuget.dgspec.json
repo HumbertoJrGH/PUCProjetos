@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\PUCProjetos\\POO\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {}
+    "D:\\Projetos\\PUCProjetos\\POO\\ConsoleApp3\\ConsoleApp3\\GestorProdutos.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\PUCProjetos\\POO\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {
+    "D:\\Projetos\\PUCProjetos\\POO\\ConsoleApp3\\ConsoleApp3\\GestorProdutos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\PUCProjetos\\POO\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
-        "projectName": "ConsoleApp3",
-        "projectPath": "D:\\Projetos\\PUCProjetos\\POO\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectUniqueName": "D:\\Projetos\\PUCProjetos\\POO\\ConsoleApp3\\ConsoleApp3\\GestorProdutos.csproj",
+        "projectName": "GestorProdutos",
+        "projectPath": "D:\\Projetos\\PUCProjetos\\POO\\ConsoleApp3\\ConsoleApp3\\GestorProdutos.csproj",
         "packagesPath": "C:\\Users\\humbe\\.nuget\\packages\\",
         "outputPath": "D:\\Projetos\\PUCProjetos\\POO\\ConsoleApp3\\ConsoleApp3\\obj\\",
         "projectStyle": "PackageReference",

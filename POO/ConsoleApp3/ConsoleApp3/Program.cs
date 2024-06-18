@@ -1,13 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ConsoleApp3
+namespace GestorProdutos
 {
     internal class ListaProdutos
     {
         private List<Produto> Lista;
+        private Consulta xml;
         public ListaProdutos()
         {
+            xml = new Consulta();
             Lista = new List<Produto>();
         }
         public void AddProduto(Produto produto)

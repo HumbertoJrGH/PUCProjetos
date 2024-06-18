@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("aplicaçãoJSON")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("GestorProdutos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("aplicaçãoJSON")]
-[assembly: System.Reflection.AssemblyTitleAttribute("aplicaçãoJSON")]
+[assembly: System.Reflection.AssemblyProductAttribute("GestorProdutos")]
+[assembly: System.Reflection.AssemblyTitleAttribute("GestorProdutos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
