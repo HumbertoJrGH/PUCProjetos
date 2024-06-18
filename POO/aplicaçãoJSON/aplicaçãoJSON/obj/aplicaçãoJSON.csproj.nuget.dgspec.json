@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\humbe\\source\\repos\\aplicaçãoJSON\\aplicaçãoJSON\\aplicaçãoJSON.csproj": {}
+    "E:\\Code\\PUCProjetos\\POO\\aplicaçãoJSON\\aplicaçãoJSON\\aplicaçãoJSON.csproj": {}
   },
   "projects": {
-    "C:\\Users\\humbe\\source\\repos\\aplicaçãoJSON\\aplicaçãoJSON\\aplicaçãoJSON.csproj": {
+    "E:\\Code\\PUCProjetos\\POO\\aplicaçãoJSON\\aplicaçãoJSON\\aplicaçãoJSON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\humbe\\source\\repos\\aplicaçãoJSON\\aplicaçãoJSON\\aplicaçãoJSON.csproj",
+        "projectUniqueName": "E:\\Code\\PUCProjetos\\POO\\aplicaçãoJSON\\aplicaçãoJSON\\aplicaçãoJSON.csproj",
         "projectName": "aplicaçãoJSON",
-        "projectPath": "C:\\Users\\humbe\\source\\repos\\aplicaçãoJSON\\aplicaçãoJSON\\aplicaçãoJSON.csproj",
+        "projectPath": "E:\\Code\\PUCProjetos\\POO\\aplicaçãoJSON\\aplicaçãoJSON\\aplicaçãoJSON.csproj",
         "packagesPath": "C:\\Users\\humbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\humbe\\source\\repos\\aplicaçãoJSON\\aplicaçãoJSON\\obj\\",
+        "outputPath": "E:\\Code\\PUCProjetos\\POO\\aplicaçãoJSON\\aplicaçãoJSON\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
