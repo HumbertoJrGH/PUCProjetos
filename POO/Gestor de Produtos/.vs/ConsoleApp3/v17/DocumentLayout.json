@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\humbe\\Documents\\Code\\PUCProjetos\\POO\\Gestor de Produtos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7239734-7023-4161-90F2-E363DE2C9DFE}|ConsoleApp3\\GestorProdutos.csproj|c:\\users\\humbe\\documents\\code\\pucprojetos\\poo\\gestor de produtos\\consoleapp3\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7239734-7023-4161-90F2-E363DE2C9DFE}|ConsoleApp3\\GestorProdutos.csproj|solutionrelative:consoleapp3\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7239734-7023-4161-90F2-E363DE2C9DFE}|ConsoleApp3\\GestorProdutos.csproj|c:\\users\\humbe\\documents\\code\\pucprojetos\\poo\\gestor de produtos\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7239734-7023-4161-90F2-E363DE2C9DFE}|ConsoleApp3\\GestorProdutos.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7239734-7023-4161-90F2-E363DE2C9DFE}|ConsoleApp3\\GestorProdutos.csproj|c:\\users\\humbe\\documents\\code\\pucprojetos\\poo\\gestor de produtos\\consoleapp3\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7239734-7023-4161-90F2-E363DE2C9DFE}|ConsoleApp3\\GestorProdutos.csproj|solutionrelative:consoleapp3\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\Documents\\Code\\PUCProjetos\\POO\\Gestor de Produtos\\ConsoleApp3\\Consulta.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Consulta.cs",
+              "ToolTip": "C:\\Users\\humbe\\Documents\\Code\\PUCProjetos\\POO\\Gestor de Produtos\\ConsoleApp3\\Consulta.cs",
+              "RelativeToolTip": "ConsoleApp3\\Consulta.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:33:09.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\Documents\\Code\\PUCProjetos\\POO\\Gestor de Produtos\\ConsoleApp3\\Produto.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Produto.cs",
+              "ToolTip": "C:\\Users\\humbe\\Documents\\Code\\PUCProjetos\\POO\\Gestor de Produtos\\ConsoleApp3\\Produto.cs",
+              "RelativeToolTip": "ConsoleApp3\\Produto.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:27:43.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\Documents\\Code\\PUCProjetos\\POO\\Gestor de Produtos\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\humbe\\Documents\\Code\\PUCProjetos\\POO\\Gestor de Produtos\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp3\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvyAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:20:22.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\humbe\Documents\Code\PUCProjetos\POO\Gestor de Produtos\ConsoleApp3\bin\Debug\net5.0\GestorProdutos.exe
+C:\Users\humbe\Documents\Code\PUCProjetos\POO\Gestor de Produtos\ConsoleApp3\bin\Debug\net5.0\GestorProdutos.deps.json
+C:\Users\humbe\Documents\Code\PUCProjetos\POO\Gestor de Produtos\ConsoleApp3\bin\Debug\net5.0\GestorProdutos.runtimeconfig.json
+C:\Users\humbe\Documents\Code\PUCProjetos\POO\Gestor de Produtos\ConsoleApp3\bin\Debug\net5.0\GestorProdutos.runtimeconfig.dev.json
+C:\Users\humbe\Documents\Code\PUCProjetos\POO\Gestor de Produtos\ConsoleApp3\bin\Debug\net5.0\GestorProdutos.dll
+C:\Users\humbe\Documents\Code\PUCProjetos\POO\Gestor de Produtos\ConsoleApp3\bin\Debug\net5.0\GestorProdutos.pdb
+C:\Users\humbe\Documents\Code\PUCProjetos\POO\Gestor de Produtos\ConsoleApp3\obj\Debug\net5.0\GestorProdutos.csproj.AssemblyReference.cache
+C:\Users\humbe\Documents\Code\PUCProjetos\POO\Gestor de Produtos\ConsoleApp3\obj\Debug\net5.0\GestorProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humbe\Documents\Code\PUCProjetos\POO\Gestor de Produtos\ConsoleApp3\obj\Debug\net5.0\GestorProdutos.AssemblyInfoInputs.cache
+C:\Users\humbe\Documents\Code\PUCProjetos\POO\Gestor de Produtos\ConsoleApp3\obj\Debug\net5.0\GestorProdutos.AssemblyInfo.cs
+C:\Users\humbe\Documents\Code\PUCProjetos\POO\Gestor de Produtos\ConsoleApp3\obj\Debug\net5.0\GestorProdutos.csproj.CoreCompileInputs.cache
+C:\Users\humbe\Documents\Code\PUCProjetos\POO\Gestor de Produtos\ConsoleApp3\obj\Debug\net5.0\GestorProdutos.sourcelink.json
+C:\Users\humbe\Documents\Code\PUCProjetos\POO\Gestor de Produtos\ConsoleApp3\obj\Debug\net5.0\GestorProdutos.dll
+C:\Users\humbe\Documents\Code\PUCProjetos\POO\Gestor de Produtos\ConsoleApp3\obj\Debug\net5.0\refint\GestorProdutos.dll
+C:\Users\humbe\Documents\Code\PUCProjetos\POO\Gestor de Produtos\ConsoleApp3\obj\Debug\net5.0\GestorProdutos.pdb
+C:\Users\humbe\Documents\Code\PUCProjetos\POO\Gestor de Produtos\ConsoleApp3\obj\Debug\net5.0\GestorProdutos.genruntimeconfig.cache
+C:\Users\humbe\Documents\Code\PUCProjetos\POO\Gestor de Produtos\ConsoleApp3\obj\Debug\net5.0\ref\GestorProdutos.dll
