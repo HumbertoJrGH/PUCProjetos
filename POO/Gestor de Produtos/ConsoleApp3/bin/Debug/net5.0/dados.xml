@@ -1,2 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Root />
+<Root>
+  <Produto>
+    <ID>1</ID>
+    <Nome>a</Nome>
+    <Descrição>a</Descrição>
+    <Preço>1</Preço>
+    <Estoque>1</Estoque>
+  </Produto>
+  <Produto>
+    <ID>3</ID>
+    <Nome>tres</Nome>
+    <Descrição>descrição produto 3</Descrição>
+    <Preço>350</Preço>
+    <Estoque>300</Estoque>
+  </Produto>
+  <Produto>
+    <ID>4</ID>
+    <Nome>d</Nome>
+    <Descrição>descrição produto d</Descrição>
+    <Preço>4</Preço>
+    <Estoque>400</Estoque>
+  </Produto>
+  <Produto>
+    <ID>5</ID>
+    <Nome>cinque</Nome>
+    <Descrição>cincocento</Descrição>
+    <Preço>5</Preço>
+    <Estoque>50</Estoque>
+  </Produto>
+  <Produto>
+    <ID>6</ID>
+    <Nome>seis</Nome>
+    <Descrição>descrição 6</Descrição>
+    <Preço>6</Preço>
+    <Estoque>60</Estoque>
+  </Produto>
+  <Produto>
+    <ID>1</ID>
+    <Nome>a</Nome>
+    <Descrição>produto a</Descrição>
+    <Preço>1</Preço>
+    <Estoque>10</Estoque>
+  </Produto>
+</Root>

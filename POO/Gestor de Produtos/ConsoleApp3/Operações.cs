@@ -20,15 +20,9 @@ namespace GestorProdutos
             xml.Add(produto.RetornarXMLProduto());
         }
 
-        public void RemProduto(int Id)
+        public void RemProduto(int ID)
         {
-            foreach (Produto produto in Lista)
-                if (produto.Id == Id)
-                {
-                    Lista.Remove(produto);
-                    return;
-                }
-            Console.WriteLine("Nenhum produto encontrado");
+            xml.Remover(ID);
         }
 
         public void ListarProdutos()
