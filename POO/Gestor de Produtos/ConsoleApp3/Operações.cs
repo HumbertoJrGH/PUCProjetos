@@ -35,15 +35,25 @@ namespace GestorProdutos
             xml.Buscar(ID);
         }
 
-        public void ModificarEstoque(int ID, int estoque)
+        public void Modificar()
         {
-            foreach (Produto produto in Lista)
-                if (produto.Id == ID)
-                {
-                    produto.AtualizarEstoque(estoque);
-                    return;
-                }
-            Console.WriteLine("Nenhum produto encontrado");
+            Console.WriteLine("Informe o ID para buscar o produto");
+            Console.Write("ID: ");
+            int ID = int.Parse(Console.ReadLine());
+            bool existe = xml.Buscar(ID);
+
+            if (existe)
+            {
+                Console.WriteLine("Qual informação deseja alterar deste produto?" +
+                    "\n1 - Nome" +
+                    "\n2 - Descrição" +
+                    "\n3 - Preço" +
+                    "\n4 - Estoque");
+
+                int opt = 1;
+            }
+            else Console.WriteLine("Produto não existe!");
+            Console.ReadKey();
         }
     }
 }

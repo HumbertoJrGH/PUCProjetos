@@ -16,7 +16,7 @@ namespace GestorProdutos
                     "\n2 - Remover" +
                     "\n3 - Listar" +
                     "\n4 - Buscar" +
-                    "\n5 - Modificar Estoque" +
+                    "\n5 - Modificar" +
                     "\n0 - Sair");
 
                 int x = 0;
@@ -59,14 +59,9 @@ namespace GestorProdutos
                         break;
                     case 5:
                         Console.Clear();
-                        Console.WriteLine("Modificar estoque");
-                        Console.Write("Informe o ID: ");
-                        ID = int.Parse(Console.ReadLine());
-                        Console.Write("Informe quanto do estoque modificar: ");
+                        Console.WriteLine("Modificar produto");
                         int estoque = int.Parse(Console.ReadLine());
-                        o.ModificarEstoque(ID, estoque);
-                        Console.Clear();
-                        Console.WriteLine("Estoque atualizado com sucesso");
+                        o.Modificar();
                         Console.ReadKey();
                         break;
                     case 0:

@@ -62,7 +62,7 @@ namespace GestorProdutos
             foreach (var p in consulta) Console.WriteLine(p + "\n");
         }
 
-        internal void Buscar(int ID)
+        internal bool Buscar(int ID)
         {
             var Consulta = from p in XML.Elements("Produto")
                            where ((int)p.Element("ID")).Equals(ID)
@@ -74,8 +74,10 @@ namespace GestorProdutos
                 Console.WriteLine(Consulta);
 
                 foreach (var x in Consulta) Console.WriteLine(x + "\n");
+                return true;
             }
             else Console.WriteLine("Produto não encontrado");
+            return false;
         }
 
         internal void Remover(int ID)
